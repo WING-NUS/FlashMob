@@ -7,7 +7,8 @@ Week-1
   – SQL table / PHP
   - TL – learn Flash
   - Jianfei – implement GUI
-Week-2
+
+\\Week-2
 - Done
   - Jon / Raj – SQL tables / basic PHP 
   - Jianfei – some basic GUI screens
