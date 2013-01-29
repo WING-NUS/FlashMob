@@ -16,5 +16,5 @@ Week-1
 - To-Do
   - Jon – confirm SQL tables
   - Jianfei – find out how to interact FB w/ program
-  - TL / Raj – create skeleton game, and find out how to interact FLEX with Flash game
+  - TL / Raj – create part of skeleton game, and find out how to interact FLEX with Flash game
 
