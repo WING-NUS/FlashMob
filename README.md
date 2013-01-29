@@ -18,3 +18,4 @@ Week-2
   - Jianfei – find out how to interact FB w/ program; refine GUI front-end
   - TL / Raj – fully learn Flash; if possible find out how to interact FLEX with Flash game
 
+P.S. (MVC? ORM?)
